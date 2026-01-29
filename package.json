@@ -1,0 +1,27 @@
+{
+  "name": "gonche",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "data:bootstrap": "node scripts/bootstrap-database.js",
+    "data:sync": "node --env-file=.env scripts/sync-database.js",
+    "data:views": "node scripts/build-views.js",
+    "data:update": "npm run data:sync && npm run data:views"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-simple-maps": "^3.0.0",
+    "react-tooltip": "^5.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "csv-parser": "^3.0.0",
+    "vite": "^5.0.0"
+  }
+}

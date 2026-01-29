@@ -1,0 +1,35 @@
+.world-map {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: mapIn 0.7s ease both;
+}
+
+.world-map svg {
+  width: 100%;
+  height: 100%;
+}
+
+.map-tooltip {
+  background-color: #f2efe8 !important;
+  color: var(--text-primary) !important;
+  padding: 8px 12px !important;
+  border-radius: 6px !important;
+  font-size: 14px !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: 0 8px 16px rgba(42, 56, 48, 0.18) !important;
+  z-index: 1000 !important;
+}
+
+@keyframes mapIn {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

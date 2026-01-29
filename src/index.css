@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Bon Iver palette - muted forest greens, soft teals, earthy warmth */
+  --bg-primary: #e8e4dc;
+  --bg-secondary: #dcd6cb;
+  --bg-tertiary: #f2efe8;
+  --text-primary: #2a3830;
+  --text-secondary: #5c6b62;
+  --accent: #8b4d42;
+  --accent-hover: #6d3a32;
+  --border: #b8ad98;
+  --highlight: #7d8c6e;
+  --shadow: rgba(42, 56, 48, 0.15);
+  --font-sans: 'Space Grotesk', 'Helvetica Neue', sans-serif;
+  --font-display: 'Fraunces', 'Times New Roman', serif;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  background-image:
+    radial-gradient(circle at 15% 15%, rgba(255, 255, 255, 0.5), transparent 45%),
+    radial-gradient(circle at 85% 10%, rgba(125, 140, 110, 0.2), transparent 40%),
+    linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+  overflow: hidden;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-display);
+  letter-spacing: 0.01em;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a9a192;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8d8778;
+}
+
+/* Loading screen */
+.loading-screen,
+.error-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 1rem;
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 4px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
