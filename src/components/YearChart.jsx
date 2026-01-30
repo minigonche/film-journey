@@ -32,14 +32,17 @@ function YearChart({ moviesByYear, selectedYear, onYearClick }) {
     return `rgb(${r}, ${g}, ${b})`
   }
 
-  const handleBarClick = (data) => {
-    if (data && data.year) {
-      onYearClick(data.year)
-    }
-  }
-
   const handleChartClick = (data) => {
-    if (data && data.activeLabel) {
+    if (!data) return
+
+    // When clicking on a bar, activePayload contains the data
+    if (data.activePayload && data.activePayload[0]) {
+      onYearClick(data.activePayload[0].payload.year)
+      return
+    }
+
+    // When clicking in the column area (not on bar), use activeLabel
+    if (data.activeLabel) {
       onYearClick(data.activeLabel)
     }
   }
@@ -100,7 +103,6 @@ function YearChart({ moviesByYear, selectedYear, onYearClick }) {
               dataKey="count"
               radius={[4, 4, 0, 0]}
               cursor="pointer"
-              onClick={handleBarClick}
             >
               {moviesByYear.map((entry) => (
                 <Cell

@@ -18,6 +18,7 @@ function App() {
   const handleCountryClick = (countryCode, countryName) => {
     setSelectedCountryCode(countryCode)
     setSelectedCountryName(countryName)
+    setSelectedYear(null)
     setHighlightedMovieId(null)
   }
 
@@ -37,6 +38,10 @@ function App() {
 
   const handleViewChange = (mode) => {
     setViewMode(mode)
+    setSelectedCountryCode(null)
+    setSelectedCountryName('')
+    setSelectedYear(null)
+    setHighlightedMovieId(null)
   }
 
   const handleMovieClick = (movie) => {
