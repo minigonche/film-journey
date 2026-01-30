@@ -1,7 +1,7 @@
 {
   "US": {
     "name": "United States of America",
-    "count": 2260,
+    "count": 2401,
     "movies": [
       {
         "imdbId": "tt0485985",
@@ -3979,6 +3979,28 @@
         ]
       },
       {
+        "imdbId": "tt0417299",
+        "title": "Avatar: The Last Airbender",
+        "year": 2005,
+        "poster": null,
+        "rating": 9.3,
+        "userRating": 10,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Mystery"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR"
+        ]
+      },
+      {
         "imdbId": "tt0396171",
         "title": "Perfume: The Story of a Murderer",
         "year": 2006,
@@ -6342,6 +6364,27 @@
         ]
       },
       {
+        "imdbId": "tt0458290",
+        "title": "Star Wars: The Clone Wars",
+        "year": 2008,
+        "poster": null,
+        "rating": 8.5,
+        "userRating": null,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1104001",
         "title": "TRON: Legacy",
         "year": 2010,
@@ -6689,6 +6732,75 @@
         ]
       },
       {
+        "imdbId": "tt1695360",
+        "title": "The Legend of Korra",
+        "year": 2012,
+        "poster": null,
+        "rating": 8.3,
+        "userRating": 7,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR",
+          "JP"
+        ]
+      },
+      {
+        "imdbId": "tt0361243",
+        "title": "Star Wars: Clone Wars",
+        "year": 2003,
+        "poster": null,
+        "rating": 7.9,
+        "userRating": null,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Drama",
+          "Family",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR"
+        ]
+      },
+      {
+        "imdbId": "tt0275137",
+        "title": "Justice League",
+        "year": 2001,
+        "poster": null,
+        "rating": 8.5,
+        "userRating": 7,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR"
+        ]
+      },
+      {
         "imdbId": "tt0402022",
         "title": "Æon Flux",
         "year": 2005,
@@ -7031,6 +7143,28 @@
         "isCoProduction": true,
         "allCountries": [
           "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0280249",
+        "title": "Dragon Ball",
+        "year": 1995,
+        "poster": null,
+        "rating": 8.5,
+        "userRating": 6,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
           "US"
         ]
       },
@@ -8376,6 +8510,41 @@
         "isCoProduction": true,
         "allCountries": [
           "DE",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1462651",
+        "title": "The Sharp End",
+        "year": 2007,
+        "poster": "/pmSmhO0r0KFpgZQc45faxl00iHP.jpg",
+        "rating": 7.7,
+        "userRating": null,
+        "director": "Nick Rosen",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1139585",
+        "title": "First Ascent",
+        "year": 2006,
+        "poster": "/bVQiF9apr6KdaUPYJPDedCQneDc.jpg",
+        "rating": 7.2,
+        "userRating": null,
+        "director": "Nick Rosen",
+        "genres": [
+          "Documentary",
+          "Action",
+          "Adventure",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -11113,6 +11282,28 @@
         ]
       },
       {
+        "imdbId": "tt0115491",
+        "title": "Aladdin and the King of Thieves",
+        "year": 1996,
+        "poster": "/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg",
+        "rating": 6.3,
+        "userRating": 7,
+        "director": "Tad Stones",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Musical",
+          "Romance"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0319343",
         "title": "Elf",
         "year": 2003,
@@ -12085,6 +12276,26 @@
         ]
       },
       {
+        "imdbId": "tt2027128",
+        "title": "Justice League: Doom",
+        "year": 2012,
+        "poster": "/6IUhwX2fHPBzsKHpygW50a3tkEw.jpg",
+        "rating": 7.4,
+        "userRating": 8,
+        "director": "Lauren Montgomery",
+        "genres": [
+          "Animation",
+          "Action",
+          "Fantasy",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0112642",
         "title": "Casper",
         "year": 1995,
@@ -12721,6 +12932,25 @@
         ]
       },
       {
+        "imdbId": "tt0118618",
+        "title": "Angels in the Endzone",
+        "year": 1997,
+        "poster": "/8CGoV5Lmw7Ex2jfizZTPPEZpHHo.jpg",
+        "rating": 4.7,
+        "userRating": 6,
+        "director": "Gary Nadeau",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0062737",
         "title": "Blackbeard's Ghost",
         "year": 1968,
@@ -12750,6 +12980,24 @@
           "Comedy",
           "Family",
           "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0117534",
+        "title": "Sabrina the Teenage Witch",
+        "year": 1996,
+        "poster": "/mpWf9g1B1PGhoatOBcC5r9RglEM.jpg",
+        "rating": 6.1,
+        "userRating": 6,
+        "director": "Tibor Takács",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -13575,6 +13823,24 @@
         ]
       },
       {
+        "imdbId": "tt0142306",
+        "title": "The Garbage Picking Field Goal Kicking Philadelphia Phenomenon",
+        "year": 1998,
+        "poster": "/aauEHRHy0yhLgmgrPmdxDQQd5k6.jpg",
+        "rating": 5.1,
+        "userRating": 6,
+        "director": "Tim Kelleher",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0398165",
         "title": "The Longest Yard",
         "year": 2005,
@@ -13926,6 +14192,26 @@
         ]
       },
       {
+        "imdbId": "tt0208185",
+        "title": "An Extremely Goofy Movie",
+        "year": 2000,
+        "poster": "/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg",
+        "rating": 6.4,
+        "userRating": 6,
+        "director": "Douglas McCarthy",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "AU",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0132245",
         "title": "Driven",
         "year": 2001,
@@ -14124,6 +14410,24 @@
         "isCoProduction": true,
         "allCountries": [
           "CA",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0382937",
+        "title": "Recess: Taking the Fifth Grade",
+        "year": 2003,
+        "poster": "/pfYgZce45Hqo20MDBCfWsox2y4s.jpg",
+        "rating": 6.7,
+        "userRating": 7,
+        "director": "Howy Parkins",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -14499,6 +14803,26 @@
         ]
       },
       {
+        "imdbId": "tt0328832",
+        "title": "The Animatrix",
+        "year": 2003,
+        "poster": "/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+        "rating": 7.3,
+        "userRating": 8,
+        "director": "Peter Chung",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US",
+          "KR"
+        ]
+      },
+      {
         "imdbId": "tt0317219",
         "title": "Cars",
         "year": 2006,
@@ -14805,6 +15129,25 @@
           "Crime",
           "Drama",
           "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0025211",
+        "title": "Gulliver Mickey",
+        "year": 1934,
+        "poster": "/2Q0IwyLYLHJ3RjaqBGo1iyHF4Je.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Burt Gillett",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Animation",
+          "Short"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -15149,6 +15492,54 @@
         ]
       },
       {
+        "imdbId": "tt0436058",
+        "title": "American Pie Presents: Band Camp",
+        "year": 2005,
+        "poster": "/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg",
+        "rating": 5,
+        "userRating": 5,
+        "director": "Steve Rash",
+        "genres": [
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0808146",
+        "title": "American Pie Presents: The Naked Mile",
+        "year": 2006,
+        "poster": "/6CPJVJrqVjibP5Uub8yCg4FKtJi.jpg",
+        "rating": 5.1,
+        "userRating": 5,
+        "director": "Joe Nussbaum",
+        "genres": [
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1407050",
+        "title": "American Pie Presents: The Book of Love",
+        "year": 2009,
+        "poster": "/hwP0GEP0zy8ar965Xaht19SmMd3.jpg",
+        "rating": 4.7,
+        "userRating": 5,
+        "director": "John Putch",
+        "genres": [
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0118615",
         "title": "Anaconda",
         "year": 1997,
@@ -15219,6 +15610,25 @@
         ],
         "isCoProduction": false,
         "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1630626",
+        "title": "Blue Crush 2",
+        "year": 2011,
+        "poster": "/nrxurRiSiqsC65qhu4PO0FAPDb0.jpg",
+        "rating": 5.3,
+        "userRating": 5,
+        "director": "Mike Elliott",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "ZA",
           "US"
         ]
       },
@@ -15420,6 +15830,25 @@
         ]
       },
       {
+        "imdbId": "tt0481513",
+        "title": "Dr. Dolittle 3",
+        "year": 2006,
+        "poster": "/i4xF1guNryvrUZzjosHui5vpsKc.jpg",
+        "rating": 4,
+        "userRating": 4,
+        "director": "Rich Thorne",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CA",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0357277",
         "title": "Elektra",
         "year": 2005,
@@ -15494,6 +15923,25 @@
         "isCoProduction": false,
         "allCountries": [
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt0118178",
+        "title": "Wish Upon a Star",
+        "year": 1996,
+        "poster": "/5vgfcw4y4UVE2BUA4RTauUX62jQ.jpg",
+        "rating": 6.6,
+        "userRating": null,
+        "director": "Blair Treu",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "CA"
         ]
       },
       {
@@ -15653,6 +16101,28 @@
         ]
       },
       {
+        "imdbId": "tt0189070",
+        "title": "Scooby-Doo! Meets the Boo Brothers",
+        "year": 1987,
+        "poster": "/2jKmHNGED3cUyXd6oge5uuHYh3f.jpg",
+        "rating": 6.9,
+        "userRating": null,
+        "director": "Paul Sommer",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Horror",
+          "Mystery"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0970416",
         "title": "The Day the Earth Stood Still",
         "year": 2008,
@@ -15702,6 +16172,26 @@
         "genres": [
           "Comedy",
           "Romance"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0318403",
+        "title": "The Lion King 1½",
+        "year": 2004,
+        "poster": "/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg",
+        "rating": 6.5,
+        "userRating": null,
+        "director": "Bradley Raymond",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Musical"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -15760,6 +16250,42 @@
           "Documentary",
           "Action",
           "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0202521",
+        "title": "Passport to Paris",
+        "year": 1999,
+        "poster": "/qwSUZWucryjWJ4ZLjDhy94MHev5.jpg",
+        "rating": 5.3,
+        "userRating": null,
+        "director": "Alan Metter",
+        "genres": [
+          "Family",
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0297169",
+        "title": "Holiday in the Sun",
+        "year": 2001,
+        "poster": "/vTeilhjA4cZOZWFxBxh5arrv0hk.jpg",
+        "rating": 5,
+        "userRating": null,
+        "director": "Steve Purcell",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Family",
+          "Romance"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -15896,6 +16422,27 @@
           "GB",
           "FR",
           "DE",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1259998",
+        "title": "Next Avengers: Heroes of Tomorrow",
+        "year": 2008,
+        "poster": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
+        "rating": 6.2,
+        "userRating": 5,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -16202,6 +16749,44 @@
           "DE",
           "US",
           "GB"
+        ]
+      },
+      {
+        "imdbId": "tt1683043",
+        "title": "Green Lantern: Emerald Knights",
+        "year": 2011,
+        "poster": "/v8ZGOwcE0aFEpfWdZrVdmdGoFWC.jpg",
+        "rating": 6.7,
+        "userRating": 7,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1753968",
+        "title": "Jackass 3.5",
+        "year": 2011,
+        "poster": "/o0cILOYbqfppTLAhkI2tzA2BWtX.jpg",
+        "rating": 6.6,
+        "userRating": 6,
+        "director": "Jeff Tremaine",
+        "genres": [
+          "Documentary",
+          "Action",
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
         ]
       },
       {
@@ -17714,6 +18299,45 @@
         ]
       },
       {
+        "imdbId": "tt1494772",
+        "title": "Justice League: Crisis on Two Earths",
+        "year": 2010,
+        "poster": "/5Cjrxbv0BIxzgKFC9PYcgmPtnMV.jpg",
+        "rating": 7.2,
+        "userRating": 7,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1398941",
+        "title": "Superman/Batman: Public Enemies",
+        "year": 2009,
+        "poster": "/izvMc22ywSLFWUXZEIuJJ8dms75.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0124298",
         "title": "Blast from the Past",
         "year": 1999,
@@ -17809,6 +18433,103 @@
         ]
       },
       {
+        "imdbId": "tt1673430",
+        "title": "Superman/Batman: Apocalypse",
+        "year": 2010,
+        "poster": "/d7gHmsA2o5Z1MhcuspMyOSO48KB.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "Lauren Montgomery",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1384590",
+        "title": "Green Lantern: First Flight",
+        "year": 2009,
+        "poster": "/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "Lauren Montgomery",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0491703",
+        "title": "Ultimate Avengers: The Movie",
+        "year": 2006,
+        "poster": "/iMCkGHVrYRdqKROPRPmVaJVSlg3.jpg",
+        "rating": 6.6,
+        "userRating": 6,
+        "director": "Steven E. Gordon",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0803093",
+        "title": "Ultimate Avengers 2",
+        "year": 2006,
+        "poster": "/sMFyYZR9krqcQC99G6jnb10Zv4P.jpg",
+        "rating": 6.5,
+        "userRating": 7,
+        "director": "Will Meugniot",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1325753",
+        "title": "Hulk Vs.",
+        "year": 2009,
+        "poster": "/cjUNXJIXBHmKjpI0oH5MmEKgOTt.jpg",
+        "rating": 6.9,
+        "userRating": 6,
+        "director": "Frank Paur",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1702439",
         "title": "Safe Haven",
         "year": 2013,
@@ -17839,6 +18560,49 @@
           "Comedy",
           "Drama",
           "Romance",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1117563",
+        "title": "Batman: Gotham Knight",
+        "year": 2008,
+        "poster": "/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Futoshi Higashide",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US",
+          "KR"
+        ]
+      },
+      {
+        "imdbId": "tt0934706",
+        "title": "Superman: Doomsday",
+        "year": 2007,
+        "poster": "/itvuWm7DFWWzWgW0xgiaKzzWszP.jpg",
+        "rating": 6.9,
+        "userRating": 7,
+        "director": "Lauren Montgomery",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Drama",
           "Sci-Fi"
         ],
         "isCoProduction": false,
@@ -17951,6 +18715,28 @@
         ]
       },
       {
+        "imdbId": "tt1569923",
+        "title": "Batman: Under the Red Hood",
+        "year": 2010,
+        "poster": "/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
+        "rating": 8,
+        "userRating": 7,
+        "director": "Brandon Vietti",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0367882",
         "title": "Indiana Jones and the Kingdom of the Crystal Skull",
         "year": 2008,
@@ -17961,6 +18747,68 @@
         "genres": [
           "Action",
           "Adventure"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2313197",
+        "title": "Batman: The Dark Knight Returns, Part 1",
+        "year": 2012,
+        "poster": "/7yAPPLZpTnPN7qb1qSCNuotQpew.jpg",
+        "rating": 7.9,
+        "userRating": 7,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2166834",
+        "title": "Batman: The Dark Knight Returns, Part 2",
+        "year": 2013,
+        "poster": "/arEZYd6uMOFTILne9Ux0A8qctMe.jpg",
+        "rating": 8.3,
+        "userRating": 7,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1754264",
+        "title": "Never Back Down 2: The Beatdown",
+        "year": 2011,
+        "poster": "/7VjtTMQpfy9GxMyjUfuYTfyatZz.jpg",
+        "rating": 5.7,
+        "userRating": 4,
+        "director": "Michael Jai White",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sport"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -17983,6 +18831,24 @@
         "isCoProduction": true,
         "allCountries": [
           "ES",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1530970",
+        "title": "Progression",
+        "year": 2009,
+        "poster": "/reqekrZxbpLBCouv6fxQ53bFN7U.jpg",
+        "rating": 7.9,
+        "userRating": 7,
+        "director": "Josh Lowell",
+        "genres": [
+          "Documentary",
+          "Adventure",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -18361,6 +19227,26 @@
           "Crime",
           "Drama",
           "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0902272",
+        "title": "Justice League: The New Frontier",
+        "year": 2008,
+        "poster": "/bj25ueeYNkz4e5t8oMMaAOWmwOc.jpg",
+        "rating": 6.9,
+        "userRating": 6,
+        "director": "Dave Bullock",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -19797,6 +20683,27 @@
         ]
       },
       {
+        "imdbId": "tt2446040",
+        "title": "Toy Story of Terror!",
+        "year": 2013,
+        "poster": "/oPBEnNP4Fg4gv9c0KBhchmtoG4H.jpg",
+        "rating": 7.4,
+        "userRating": 6,
+        "director": "Angus MacLane",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Horror"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0128442",
         "title": "Rounders",
         "year": 1998,
@@ -20071,6 +20978,45 @@
         ]
       },
       {
+        "imdbId": "tt1699114",
+        "title": "All Star Superman",
+        "year": 2011,
+        "poster": "/30GAgK0SvrRoopHlEcrchXqD0hf.jpg",
+        "rating": 6.8,
+        "userRating": 7,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1667903",
+        "title": "Thor: Tales of Asgard",
+        "year": 2011,
+        "poster": "/nM2rBqEMrAFiNFHXKWOhUgdKK45.jpg",
+        "rating": 6.2,
+        "userRating": 6,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1327773",
         "title": "The Butler",
         "year": 2013,
@@ -20081,6 +21027,48 @@
         "genres": [
           "Biography",
           "Drama"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1701223",
+        "title": "Superman/Shazam!: The Return of Black Adam",
+        "year": 2010,
+        "poster": "/3MgwChvi42N1RnhQE9A4pQVHyUY.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "Joaquim Dos Santos",
+        "genres": [
+          "Animation",
+          "Short",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1334585",
+        "title": "BURN·E",
+        "year": 2008,
+        "poster": "/1wOReJq1vArLBSejND2Jbw0KeKh.jpg",
+        "rating": 7.5,
+        "userRating": 6,
+        "director": "Angus MacLane",
+        "genres": [
+          "Animation",
+          "Short",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Sci-Fi"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -20362,6 +21350,26 @@
         ]
       },
       {
+        "imdbId": "tt2820466",
+        "title": "Justice League: The Flashpoint Paradox",
+        "year": 2013,
+        "poster": "/hg6RYpSb3vU4i3yQDtE1YhSZNh5.jpg",
+        "rating": 8.1,
+        "userRating": 8,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt2024544",
         "title": "12 Years a Slave",
         "year": 2013,
@@ -20434,6 +21442,104 @@
         ]
       },
       {
+        "imdbId": "tt1886542",
+        "title": "Fixation",
+        "year": 2012,
+        "poster": null,
+        "rating": 6.5,
+        "userRating": null,
+        "director": "Alex Trudeau Viriato",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt3060952",
+        "title": "Justice League: War",
+        "year": 2014,
+        "poster": "/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg",
+        "rating": 7.2,
+        "userRating": 7,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1672723",
+        "title": "Batman: Year One",
+        "year": 2011,
+        "poster": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2617456",
+        "title": "Superman: Unbound",
+        "year": 2013,
+        "poster": "/nnZKtmVSnueWd4pjk1BekLJxXRL.jpg",
+        "rating": 6.5,
+        "userRating": 6,
+        "director": "James Tucker",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1186373",
+        "title": "Wonder Woman",
+        "year": 2009,
+        "poster": "/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+        "rating": 7.2,
+        "userRating": 6,
+        "director": "Lauren Montgomery",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1646232",
         "title": "The Ultimate Wave Tahiti 3D",
         "year": 2010,
@@ -20468,6 +21574,42 @@
         "allCountries": [
           "JP",
           "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt3468260",
+        "title": "JLA Adventures: Trapped in Time",
+        "year": 2014,
+        "poster": "/qchNuTbnleCtlIB8wyV03f36VuF.jpg",
+        "rating": 5.7,
+        "userRating": 7,
+        "director": "Giancarlo Volpe",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2224455",
+        "title": "Superman vs. The Elite",
+        "year": 2012,
+        "poster": "/kozJARWRoGHlOu6UVCdVPD4n8Jm.jpg",
+        "rating": 7,
+        "userRating": null,
+        "director": "Michael Chang",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -20521,6 +21663,24 @@
         "genres": [
           "Documentary",
           "Biography",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1300853",
+        "title": "Green Street Hooligans 2",
+        "year": 2009,
+        "poster": "/6PSLy8Upgj9WhWgoVD5IUtm1sck.jpg",
+        "rating": 4.7,
+        "userRating": 5,
+        "director": "Jesse V. Johnson",
+        "genres": [
+          "Crime",
+          "Drama",
           "Sport"
         ],
         "isCoProduction": false,
@@ -20677,6 +21837,25 @@
         ],
         "isCoProduction": false,
         "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1094249",
+        "title": "Hotel Chevalier",
+        "year": 2007,
+        "poster": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+        "rating": 7.2,
+        "userRating": 6,
+        "director": "Wes Anderson",
+        "genres": [
+          "Short",
+          "Drama",
+          "Romance"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
           "US"
         ]
       },
@@ -21370,6 +22549,22 @@
         ]
       },
       {
+        "imdbId": "tt3307774",
+        "title": "Alpha House",
+        "year": 2014,
+        "poster": "/s00AwtusVVG8lpA3fquKaE63NWW.jpg",
+        "rating": 3.7,
+        "userRating": 2,
+        "director": "Jacob Cooney",
+        "genres": [
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt2109184",
         "title": "Paranormal Activity 4",
         "year": 2012,
@@ -21703,6 +22898,28 @@
         "allCountries": [
           "US",
           "GB"
+        ]
+      },
+      {
+        "imdbId": "tt3139086",
+        "title": "Batman: Assault on Arkham",
+        "year": 2014,
+        "poster": "/b9KxvIAZkl2f57kjObj8Z9z9LhL.jpg",
+        "rating": 7.4,
+        "userRating": 7,
+        "director": "Ethan Spaulding",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Crime",
+          "Fantasy",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
         ]
       },
       {
@@ -22753,6 +23970,26 @@
         ]
       },
       {
+        "imdbId": "tt0179976",
+        "title": "Mighty Ducks the Movie: The First Face-Off",
+        "year": 1996,
+        "poster": "/eZxO2CTku90mTx6oRx5HOodm4zM.jpg",
+        "rating": 5.9,
+        "userRating": 5,
+        "director": "Doug Murphy",
+        "genres": [
+          "Animation",
+          "Action",
+          "Comedy",
+          "Family",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1951265",
         "title": "The Hunger Games: Mockingjay - Part 1",
         "year": 2014,
@@ -22898,6 +24135,47 @@
         ],
         "isCoProduction": false,
         "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt3689498",
+        "title": "Feast",
+        "year": 2014,
+        "poster": "/6hAgSxgd2YIK5pYhwowtnlGpwbe.jpg",
+        "rating": 8.1,
+        "userRating": 7,
+        "director": "Patrick Osborne",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Drama",
+          "Family",
+          "Romance"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2112127",
+        "title": "Christmas Magic",
+        "year": 2011,
+        "poster": "/xPtGTM8ZAKrtKT2xnEy3b7FO5R8.jpg",
+        "rating": 6.6,
+        "userRating": 5,
+        "director": "John Bradshaw",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CA",
           "US"
         ]
       },
@@ -23085,6 +24363,123 @@
         ]
       },
       {
+        "imdbId": "tt0248808",
+        "title": "For the Birds",
+        "year": 2000,
+        "poster": "/7GogfWZYkZh802fnaMoDBnu8cfV.jpg",
+        "rating": 7.9,
+        "userRating": 7,
+        "director": "Ralph Eggleston",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Family"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1425244",
+        "title": "Partly Cloudy",
+        "year": 2009,
+        "poster": "/oqYX2AJV53ibLVPrUZ1Z5XlGv5U.jpg",
+        "rating": 8.1,
+        "userRating": 8,
+        "director": "Peter Sohn",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0131409",
+        "title": "Geri's Game",
+        "year": 1997,
+        "poster": "/8PdCk3T9EkcKniUviDogWFCXx28.jpg",
+        "rating": 7.8,
+        "userRating": 7,
+        "director": "Jan Pinkava",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Family"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0479113",
+        "title": "One Man Band",
+        "year": 2005,
+        "poster": "/hfwUfeodlhuYJTYxUbelMLIQbnH.jpg",
+        "rating": 7.6,
+        "userRating": 6,
+        "director": "Mark Andrews",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Family",
+          "Music"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0097674",
+        "title": "Knick Knack",
+        "year": 1989,
+        "poster": "/ouk2QFv4NySNfitAgXqnTtO5vA1.jpg",
+        "rating": 7.4,
+        "userRating": 6,
+        "director": "John Lasseter",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Family"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt3878542",
+        "title": "Justice League: Throne of Atlantis",
+        "year": 2015,
+        "poster": "/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+        "rating": 6.6,
+        "userRating": 6,
+        "director": "Ethan Spaulding",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1815852",
         "title": "Nitro Circus: The Movie",
         "year": 2012,
@@ -23191,6 +24586,29 @@
           "Fantasy",
           "Musical",
           "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt4324274",
+        "title": "Batman vs. Robin",
+        "year": 2015,
+        "poster": "/aGp9XDXmVM5lCKHWtgBC15S7XLr.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi",
+          "Thriller"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -23769,6 +25187,26 @@
         ]
       },
       {
+        "imdbId": "tt3846438",
+        "title": "Silencing the Thunder",
+        "year": 2014,
+        "poster": "/fpZKkIqoCKP1aGFhE7I9Gaa6zq3.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Eddie Roqueta",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Drama",
+          "History",
+          "News"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0120434",
         "title": "Vegas Vacation",
         "year": 1997,
@@ -23871,6 +25309,27 @@
         "isCoProduction": true,
         "allCountries": [
           "CA",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt3062074",
+        "title": "Sharknado 2: The Second One",
+        "year": 2014,
+        "poster": "/GgZOBSNIkxz3qA66Jauv6VvIc.jpg",
+        "rating": 4,
+        "userRating": 1,
+        "director": "Anthony C. Ferrante",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Horror",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -24123,6 +25582,23 @@
           "Adventure",
           "Sci-Fi",
           "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2391950",
+        "title": "1000 to 1",
+        "year": 2014,
+        "poster": "/sGKWrPbYykh6H943XQODN5N8wxi.jpg",
+        "rating": 6.8,
+        "userRating": 6,
+        "director": "Michael Levine",
+        "genres": [
+          "Biography",
+          "Drama"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -24835,6 +26311,26 @@
         ]
       },
       {
+        "imdbId": "tt4870838",
+        "title": "Batman: Bad Blood",
+        "year": 2016,
+        "poster": "/1UmPJWfaivtNjsScJqcsbsQRGNY.jpg",
+        "rating": 6.7,
+        "userRating": 6,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Crime",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1895587",
         "title": "Spotlight",
         "year": 2015,
@@ -24941,6 +26437,23 @@
           "Documentary",
           "Action",
           "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1979269",
+        "title": "Magic Beyond Words: The J.K. Rowling Story",
+        "year": 2011,
+        "poster": "/a8luhZ3kQ2XfCwdgGqSjuTzf8HB.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Paul A. Kaufman",
+        "genres": [
+          "Biography",
+          "Drama"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -25649,6 +27162,24 @@
         ]
       },
       {
+        "imdbId": "tt5613056",
+        "title": "Piper",
+        "year": 2016,
+        "poster": "/5fu2d809jepLwEpES7wggiECLoQ.jpg",
+        "rating": 8.3,
+        "userRating": 7,
+        "director": "Alan Barillaro",
+        "genres": [
+          "Animation",
+          "Short",
+          "Family"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt2582496",
         "title": "Me and Earl and the Dying Girl",
         "year": 2015,
@@ -25681,6 +27212,28 @@
           "Crime",
           "Family",
           "Mystery"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt5091548",
+        "title": "Justice League vs. Teen Titans",
+        "year": 2016,
+        "poster": "/ctHGhbe19xIX6wlECsFydHiha4W.jpg",
+        "rating": 6.9,
+        "userRating": 7,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -25722,6 +27275,26 @@
         "isCoProduction": true,
         "allCountries": [
           "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt4324302",
+        "title": "Justice League: Gods and Monsters",
+        "year": 2015,
+        "poster": "/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -26414,6 +27987,25 @@
         ]
       },
       {
+        "imdbId": "tt6016776",
+        "title": "Team Thor",
+        "year": 2016,
+        "poster": "/hpHvGuMc46pppwpcW0Xk7eys3L4.jpg",
+        "rating": 7.7,
+        "userRating": 6,
+        "director": "Taika Waititi",
+        "genres": [
+          "Short",
+          "Comedy",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt2005151",
         "title": "War Dogs",
         "year": 2016,
@@ -27020,6 +28612,27 @@
         ]
       },
       {
+        "imdbId": "tt2494376",
+        "title": "Justice League Dark",
+        "year": 2017,
+        "poster": "/gWcTaDFXDrOAPfVzfBFz0Aya5BE.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Jay Oliva",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Horror",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0116282",
         "title": "Fargo",
         "year": 1996,
@@ -27289,6 +28902,43 @@
           "Drama",
           "Thriller",
           "Western"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt4874696",
+        "title": "Borrowed Time",
+        "year": 2015,
+        "poster": "/p2FoxeUWAKwS9LbCzXszfV2er4j.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Andrew Coats",
+        "genres": [
+          "Animation",
+          "Short",
+          "Drama",
+          "Western"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt5599918",
+        "title": "Pearl",
+        "year": 2016,
+        "poster": "/wVDPRvLfiY3mJztp6nPwMd6jjMp.jpg",
+        "rating": 6.9,
+        "userRating": 7,
+        "director": "Patrick Osborne",
+        "genres": [
+          "Animation",
+          "Short",
+          "Music"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -30274,6 +31924,25 @@
         ]
       },
       {
+        "imdbId": "tt6081408",
+        "title": "Resurface",
+        "year": 2017,
+        "poster": "/74ocfORFNJOw34uPHbZ4rX0ri09.jpg",
+        "rating": 6.9,
+        "userRating": 7,
+        "director": "Joshua Izenberg",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport",
+          "War"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt1413492",
         "title": "12 Strong",
         "year": 2018,
@@ -30756,6 +32425,26 @@
         ]
       },
       {
+        "imdbId": "tt8075496",
+        "title": "Bao",
+        "year": 2018,
+        "poster": "/tKz7XRXvdy1i7pW4eotaWZSrAx2.jpg",
+        "rating": 7.5,
+        "userRating": 5,
+        "director": "Domee Shi",
+        "genres": [
+          "Animation",
+          "Short",
+          "Drama",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt3606756",
         "title": "Incredibles 2",
         "year": 2018,
@@ -30888,6 +32577,24 @@
         ]
       },
       {
+        "imdbId": "tt8608620",
+        "title": "Karl Meltzer: Made to Be Broken",
+        "year": 2017,
+        "poster": "/tdjAvEXt3EoKlwXCdVWXNJBX5P5.jpg",
+        "rating": 6.4,
+        "userRating": 6,
+        "director": "Matt Katsolis",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0780536",
         "title": "In Bruges",
         "year": 2008,
@@ -31007,6 +32714,25 @@
           "Documentary",
           "Adventure",
           "Family"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt7167658",
+        "title": "The Death of Superman",
+        "year": 2018,
+        "poster": "/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Jake Castorena",
+        "genres": [
+          "Animation",
+          "Action",
+          "Fantasy",
+          "Sci-Fi"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -31188,6 +32914,28 @@
         "genres": [
           "Comedy",
           "Romance"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt6315800",
+        "title": "Teen Titans: The Judas Contract",
+        "year": 2017,
+        "poster": "/nuGIlNAJUati4qEAH1nrYKUA3xa.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -33071,6 +34819,23 @@
         ]
       },
       {
+        "imdbId": "tt10516984",
+        "title": "Anima",
+        "year": 2019,
+        "poster": "/xCBOjFAzsz8d2kABIPfwIAOeJ5t.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Paul Thomas Anderson",
+        "genres": [
+          "Short",
+          "Music"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0315983",
         "title": "House of Sand and Fog",
         "year": 2003,
@@ -34555,6 +36320,24 @@
         ]
       },
       {
+        "imdbId": "tt1933667",
+        "title": "The Wizard of Lies",
+        "year": 2017,
+        "poster": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
+        "rating": 6.8,
+        "userRating": 6,
+        "director": "Barry Levinson",
+        "genres": [
+          "Biography",
+          "Crime",
+          "Drama"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt3387266",
         "title": "A United Kingdom",
         "year": 2016,
@@ -34702,6 +36485,26 @@
         "allCountries": [
           "CA",
           "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11079148",
+        "title": "Justice League Dark: Apokolips War",
+        "year": 2020,
+        "poster": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+        "rating": 7.7,
+        "userRating": 6,
+        "director": "Matt Peters",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -35122,6 +36925,24 @@
         ]
       },
       {
+        "imdbId": "tt10985510",
+        "title": "Superman: Red Son",
+        "year": 2020,
+        "poster": "/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+        "rating": 6.4,
+        "userRating": 6,
+        "director": "Sam Liu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt4566758",
         "title": "Mulan",
         "year": 2020,
@@ -35134,6 +36955,22 @@
           "Adventure",
           "Drama",
           "Fantasy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt7293698",
+        "title": "Breaking2",
+        "year": 2017,
+        "poster": "/w2NRLirN9ooYid7puKCLS22izuF.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Martin Desmond Roe",
+        "genres": [
+          "Documentary"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -35436,6 +37273,39 @@
         "rating": 5.2,
         "userRating": 6,
         "director": "Marc Ostrick",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1295085",
+        "title": "Gifted Hands: The Ben Carson Story",
+        "year": 2009,
+        "poster": "/4NxxtiqezjUmUxoDTOjO5FeJvFt.jpg",
+        "rating": 7.4,
+        "userRating": 7,
+        "director": "Thomas Carter",
+        "genres": [
+          "Biography",
+          "Drama"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt9561478",
+        "title": "Kingdom of Silence",
+        "year": 2020,
+        "poster": "/mDnXKb6rL3BJChC9L0pk6RUHMro.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Rick Rowley",
         "genres": [
           "Documentary"
         ],
@@ -36774,6 +38644,23 @@
         ]
       },
       {
+        "imdbId": "tt6414866",
+        "title": "Residente",
+        "year": 2017,
+        "poster": null,
+        "rating": 7.9,
+        "userRating": 7,
+        "director": "Residente",
+        "genres": [
+          "Documentary",
+          "Music"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0990413",
         "title": "Sugar",
         "year": 2008,
@@ -37099,6 +38986,23 @@
         ]
       },
       {
+        "imdbId": "tt14539726",
+        "title": "Breaking Boundaries: The Science of Our Planet",
+        "year": 2021,
+        "poster": "/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Jonathan Clay",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt11286314",
         "title": "Don't Look Up",
         "year": 2021,
@@ -37174,6 +39078,24 @@
         ]
       },
       {
+        "imdbId": "tt16116174",
+        "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+        "year": 2022,
+        "poster": "/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+        "rating": 8,
+        "userRating": 7,
+        "director": "Joe Pearlman",
+        "genres": [
+          "Documentary",
+          "Family"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0434124",
         "title": "Kinky Boots",
         "year": 2005,
@@ -37203,6 +39125,24 @@
         "genres": [
           "Action",
           "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt14526772",
+        "title": "Learning To Drown",
+        "year": 2021,
+        "poster": "/h2iT9YbCh6TGnn3QMpMlJVoO2yI.jpg",
+        "rating": 8.5,
+        "userRating": 8,
+        "director": "Ben Knight",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -37424,6 +39364,25 @@
         "isCoProduction": true,
         "allCountries": [
           "NP",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11337862",
+        "title": "Friends: The Reunion",
+        "year": 2021,
+        "poster": "/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+        "rating": 8,
+        "userRating": 7,
+        "director": "Ben Winston",
+        "genres": [
+          "Documentary",
+          "Biography",
+          "Comedy",
+          "History"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -37736,6 +39695,61 @@
         ]
       },
       {
+        "imdbId": "tt14513236",
+        "title": "The Queen of Basketball",
+        "year": 2021,
+        "poster": "/8RjXNAvpH4SsBkEDRsCrEXxOcnd.jpg",
+        "rating": 7.2,
+        "userRating": 8,
+        "director": "Ben Proudfoot",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Biography",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11962160",
+        "title": "The Letter Room",
+        "year": 2020,
+        "poster": "/mdN8AnQxiM97GY6FxkZLQHbDPx7.jpg",
+        "rating": 6.8,
+        "userRating": 7,
+        "director": "Elvira Lind",
+        "genres": [
+          "Short",
+          "Comedy",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt15339848",
+        "title": "Lead Me Home",
+        "year": 2021,
+        "poster": "/rrsrOldUfXn5vd5HP3BAYxLTjpO.jpg",
+        "rating": 6.3,
+        "userRating": 7,
+        "director": "Jon Shenk",
+        "genres": [
+          "Short",
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt8097030",
         "title": "Turning Red",
         "year": 2022,
@@ -37774,6 +39788,23 @@
         ],
         "isCoProduction": false,
         "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt12833014",
+        "title": "Shark Beach with Chris Hemsworth",
+        "year": 2021,
+        "poster": "/lnx1DMYg4hUU16rH9kOmMQECBeE.jpg",
+        "rating": 6.6,
+        "userRating": 6,
+        "director": "Sally Aitken",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
           "US"
         ]
       },
@@ -38418,6 +40449,23 @@
         ]
       },
       {
+        "imdbId": "tt12404470",
+        "title": "Riss",
+        "year": 2020,
+        "poster": "/aoQTPQwXgdnZu49tsy6SXQfKhdI.jpg",
+        "rating": 8.2,
+        "userRating": 7,
+        "director": "Peter Hamblin",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt3704428",
         "title": "Elvis",
         "year": 2022,
@@ -38983,6 +41031,23 @@
         ]
       },
       {
+        "imdbId": "tt7389366",
+        "title": "Heroin(e)",
+        "year": 2017,
+        "poster": "/rweSROB7BEo8cI1EHcoTKBNw5m9.jpg",
+        "rating": 6.8,
+        "userRating": 6,
+        "director": "Elaine McMillion Sheldon",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt13833688",
         "title": "The Whale",
         "year": 2022,
@@ -39517,6 +41582,29 @@
         ]
       },
       {
+        "imdbId": "tt22667880",
+        "title": "The Boy, the Mole, the Fox and the Horse",
+        "year": 2022,
+        "poster": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+        "rating": 7.8,
+        "userRating": 7,
+        "director": "Peter Baynton",
+        "genres": [
+          "Animation",
+          "Short",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt0363589",
         "title": "Elephant",
         "year": 2003,
@@ -39956,6 +42044,23 @@
         ]
       },
       {
+        "imdbId": "tt10857582",
+        "title": "Los Tigres del Norte at Folsom Prison",
+        "year": 2019,
+        "poster": "/4rnOqPiOmHQBLywvNj1hYtJEJj2.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "Tom Donahue",
+        "genres": [
+          "Documentary",
+          "Music"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt7638348",
         "title": "Boss Level",
         "year": 2020,
@@ -40068,6 +42173,24 @@
         "isCoProduction": true,
         "allCountries": [
           "CN",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt21197740",
+        "title": "Batman and Superman: Battle of the Super Sons",
+        "year": 2022,
+        "poster": "/mvffaexT5kA3chOnGxwBSlRoshh.jpg",
+        "rating": 6.8,
+        "userRating": 6,
+        "director": "Matt Peters",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "US"
         ]
       },
@@ -42189,6 +44312,594 @@
         "allCountries": [
           "US"
         ]
+      },
+      {
+        "imdbId": "tt13472984",
+        "title": "Two Distant Strangers",
+        "year": 2020,
+        "poster": "/awnMWuq64kfzfKtNLctjBTJKqi0.jpg",
+        "rating": 6.8,
+        "userRating": 7,
+        "director": "Martin Desmond Roe",
+        "genres": [
+          "Short",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt4323594",
+        "title": "I'm No Longer Here",
+        "year": 2019,
+        "poster": "/AtfK71xkVaaHTZwU5mgfDgBqg9Y.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Luis Fernando Frías de la Parra",
+        "genres": [
+          "Drama",
+          "Music"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "MX",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt7689964",
+        "title": "RBG",
+        "year": 2018,
+        "poster": "/vIenhDe9DuvxODJOIpMjBheYlcS.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "Betsy West",
+        "genres": [
+          "Documentary",
+          "Biography"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0318462",
+        "title": "The Motorcycle Diaries",
+        "year": 2004,
+        "poster": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+        "rating": 7.7,
+        "userRating": 9,
+        "director": "Walter Salles",
+        "genres": [
+          "Adventure",
+          "Biography",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "AR",
+          "FR",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt8267604",
+        "title": "Capernaum",
+        "year": 2018,
+        "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+        "rating": 8.4,
+        "userRating": 7,
+        "director": "Nadine Labaki",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "LB",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11512676",
+        "title": "Do Not Split",
+        "year": 2020,
+        "poster": "/rPZoRW1mtUa5csfJhKzF1pKjy0R.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Anders Hammer",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "HK",
+          "NO",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt22165078",
+        "title": "Born to Fly",
+        "year": 2022,
+        "poster": "/xmTvJJzjnmahVvdBCbrZOsYupqO.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Brennan Robideaux",
+        "genres": [
+          "Documentary",
+          "Biography",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "SE",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt30017619",
+        "title": "The Bad Guys 2",
+        "year": 2025,
+        "poster": "/c1msaKf1wyuKcmLjjJd6rIBPFcd.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "Pierre Perifel",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Family",
+          "Mystery"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt5727208",
+        "title": "Uncut Gems",
+        "year": 2019,
+        "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+        "rating": 7.4,
+        "userRating": 7,
+        "director": "Josh Safdie",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1231277",
+        "title": "S. Darko",
+        "year": 2009,
+        "poster": "/djuhoG2GizTa9SLi2LBuCPAt6N7.jpg",
+        "rating": 3.6,
+        "userRating": 5,
+        "director": "Chris Fisher",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0421073",
+        "title": "Street Kings",
+        "year": 2008,
+        "poster": "/iTO7sBfVTr7LUqiFtGeFW7g2Ncf.jpg",
+        "rating": 6.8,
+        "userRating": 7,
+        "director": "David Ayer",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt33738802",
+        "title": "Dog of God",
+        "year": 2025,
+        "poster": "/pBL4KrMAFk8iKo5T2yXvLMEe3ag.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Lauris Ābele",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Horror",
+          "Mystery"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "LV",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt12908150",
+        "title": "The Life of Chuck",
+        "year": 2024,
+        "poster": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+        "rating": 7.3,
+        "userRating": 8,
+        "director": "Mike Flanagan",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2083383",
+        "title": "Trouble with the Curve",
+        "year": 2012,
+        "poster": "/zLZQVmxOj5kICbS5Pq7rB1cbPvP.jpg",
+        "rating": 6.8,
+        "userRating": 7,
+        "director": "Robert Lorenz",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11539996",
+        "title": "Relay",
+        "year": 2024,
+        "poster": "/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "David Mackenzie",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt11563598",
+        "title": "A Complete Unknown",
+        "year": 2024,
+        "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "James Mangold",
+        "genres": [
+          "Biography",
+          "Drama",
+          "Music"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt9243946",
+        "title": "El Camino: A Breaking Bad Movie",
+        "year": 2019,
+        "poster": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Vince Gilligan",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt32150119",
+        "title": "The Thinking Game",
+        "year": 2024,
+        "poster": "/jNMzCuUIt5tfHYJEpCIef7oqkfI.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Greg Kohs",
+        "genres": [
+          "Documentary",
+          "Animation",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt14364480",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "year": 2025,
+        "poster": "/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "rating": 7.4,
+        "userRating": 7,
+        "director": "Rian Johnson",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1860357",
+        "title": "Deepwater Horizon",
+        "year": 2016,
+        "poster": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Peter Berg",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "HK"
+        ]
+      },
+      {
+        "imdbId": "tt0104797",
+        "title": "Malcolm X",
+        "year": 1992,
+        "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Spike Lee",
+        "genres": [
+          "Biography",
+          "Drama",
+          "History"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "AN"
+        ]
+      },
+      {
+        "imdbId": "tt24950660",
+        "title": "Eternity",
+        "year": 2025,
+        "poster": "/o8pg20G67BGmQvRkXwstNre062J.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "David Freyne",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt10380084",
+        "title": "I Am Easy to Find",
+        "year": 2019,
+        "poster": "/wXtEB4h1DnIaaGuQbFq4DzJOcyC.jpg",
+        "rating": 8.1,
+        "userRating": 7,
+        "director": "Mike Mills",
+        "genres": [
+          "Short",
+          "Music"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11214558",
+        "title": "The Smashing Machine",
+        "year": 2025,
+        "poster": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+        "rating": 6.4,
+        "userRating": 7,
+        "director": "Benny Safdie",
+        "genres": [
+          "Action",
+          "Biography",
+          "Drama",
+          "History",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0238380",
+        "title": "Equilibrium",
+        "year": 2002,
+        "poster": "/yQuovle5Ov6q69XSdTNdH52eANc.jpg",
+        "rating": 7.3,
+        "userRating": 6,
+        "director": "Kurt Wimmer",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1757678",
+        "title": "Avatar: Fire and Ash",
+        "year": 2025,
+        "poster": "/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
+        "rating": 7.4,
+        "userRating": 7,
+        "director": "James Cameron",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt30988739",
+        "title": "Black Bag",
+        "year": 2025,
+        "poster": "/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+        "rating": 6.7,
+        "userRating": 7,
+        "director": "Steven Soderbergh",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt3416536",
+        "title": "Hot Summer Nights",
+        "year": 2017,
+        "poster": "/kPfNAax3PbHj5pAYiO9mc9jDvzt.jpg",
+        "rating": 6.4,
+        "userRating": 6,
+        "director": "Elijah Bynum",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt10676052",
+        "title": "The Fantastic 4: First Steps",
+        "year": 2025,
+        "poster": "/2iZ0pypKSnSvwtj1u7Bth3xm6ru.jpg",
+        "rating": 6.8,
+        "userRating": 6,
+        "director": "Matt Shakman",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt30253473",
+        "title": "Materialists",
+        "year": 2025,
+        "poster": "/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg",
+        "rating": 6.3,
+        "userRating": 7,
+        "director": "Celine Song",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "FI"
+        ]
+      },
+      {
+        "imdbId": "tt26443597",
+        "title": "Zootopia 2",
+        "year": 2025,
+        "poster": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Jared Bush",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Family",
+          "Mystery"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "US"
+        ]
       }
     ]
   },
@@ -43175,7 +45886,7 @@
   },
   "CA": {
     "name": "CA",
-    "count": 107,
+    "count": 114,
     "movies": [
       {
         "imdbId": "tt0485947",
@@ -43635,6 +46346,44 @@
         ]
       },
       {
+        "imdbId": "tt0481513",
+        "title": "Dr. Dolittle 3",
+        "year": 2006,
+        "poster": "/i4xF1guNryvrUZzjosHui5vpsKc.jpg",
+        "rating": 4,
+        "userRating": 4,
+        "director": "Rich Thorne",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0118178",
+        "title": "Wish Upon a Star",
+        "year": 1996,
+        "poster": "/5vgfcw4y4UVE2BUA4RTauUX62jQ.jpg",
+        "rating": 6.6,
+        "userRating": null,
+        "director": "Blair Treu",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "CA"
+        ]
+      },
+      {
         "imdbId": "tt0970416",
         "title": "The Day the Earth Stood Still",
         "year": 2008,
@@ -43902,6 +46651,26 @@
         ]
       },
       {
+        "imdbId": "tt2033372",
+        "title": "Small Fry",
+        "year": 2011,
+        "poster": "/8siICxMft0JSWZDq9YrXh5U5PZx.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Angus MacLane",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "CA"
+        ]
+      },
+      {
         "imdbId": "tt1922777",
         "title": "Sinister",
         "year": 2012,
@@ -43918,6 +46687,27 @@
         "allCountries": [
           "CA",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt2340678",
+        "title": "Partysaurus Rex",
+        "year": 2012,
+        "poster": "/7Y7NBliUme8KFqBh4MvQ1NOSDNW.jpg",
+        "rating": 7.4,
+        "userRating": 6,
+        "director": "Mark A. Walsh",
+        "genres": [
+          "Animation",
+          "Short",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "CA"
         ]
       },
       {
@@ -44077,6 +46867,26 @@
           "Family",
           "Romance",
           "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt2112127",
+        "title": "Christmas Magic",
+        "year": 2011,
+        "poster": "/xPtGTM8ZAKrtKT2xnEy3b7FO5R8.jpg",
+        "rating": 6.6,
+        "userRating": 5,
+        "director": "John Bradshaw",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy",
+          "Romance"
         ],
         "isCoProduction": true,
         "allCountries": [
@@ -44448,6 +47258,26 @@
           "US",
           "GB",
           "BE",
+          "CA"
+        ]
+      },
+      {
+        "imdbId": "tt5559726",
+        "title": "Blind Vaysha",
+        "year": 2016,
+        "poster": "/cghIxM5tkDXix6yfqtLBKszd9Zu.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Theodore Ushev",
+        "genres": [
+          "Animation",
+          "Short",
+          "Drama",
+          "Fantasy",
+          "Mystery"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "CA"
         ]
       },
@@ -45312,6 +48142,24 @@
         ]
       },
       {
+        "imdbId": "tt0395797",
+        "title": "Ultimate Gretzky",
+        "year": 2003,
+        "poster": null,
+        "rating": 8.2,
+        "userRating": 7,
+        "director": "Unkown Director",
+        "genres": [
+          "Documentary",
+          "Biography",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "CA"
+        ]
+      },
+      {
         "imdbId": "tt5151570",
         "title": "Mrs. Harris Goes to Paris",
         "year": 2022,
@@ -45336,7 +48184,7 @@
   },
   "FR": {
     "name": "FR",
-    "count": 202,
+    "count": 213,
     "movies": [
       {
         "imdbId": "tt0485947",
@@ -46940,6 +49788,43 @@
         ]
       },
       {
+        "imdbId": "tt0020530",
+        "title": "Un Chien Andalou",
+        "year": 1929,
+        "poster": "/obvE7ElAvCUhKtWFwDSvNbPw9PV.jpg",
+        "rating": 7.6,
+        "userRating": null,
+        "director": "Luis Buñuel",
+        "genres": [
+          "Short",
+          "Fantasy",
+          "Horror"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "FR"
+        ]
+      },
+      {
+        "imdbId": "tt1094249",
+        "title": "Hotel Chevalier",
+        "year": 2007,
+        "poster": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+        "rating": 7.2,
+        "userRating": 6,
+        "director": "Wes Anderson",
+        "genres": [
+          "Short",
+          "Drama",
+          "Romance"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt2024469",
         "title": "Non-Stop",
         "year": 2014,
@@ -47435,6 +50320,22 @@
         "isCoProduction": true,
         "allCountries": [
           "IR",
+          "FR"
+        ]
+      },
+      {
+        "imdbId": "tt6503230",
+        "title": "Pornocracy: The New Sex Multinationals",
+        "year": 2017,
+        "poster": "/kfa1KHSaewjv9sSrrHDdWNdroyv.jpg",
+        "rating": 6,
+        "userRating": 6,
+        "director": "Ovidie",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "FR"
         ]
       },
@@ -48764,6 +51665,22 @@
         ]
       },
       {
+        "imdbId": "tt12140066",
+        "title": "An Obese World",
+        "year": 2020,
+        "poster": "/ncd2aQ6SV94F7q7zM9Ex6rCPL81.jpg",
+        "rating": 7.4,
+        "userRating": 6,
+        "director": "Thierry de Lestrade",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "FR"
+        ]
+      },
+      {
         "imdbId": "tt1125849",
         "title": "The Wrestler",
         "year": 2008,
@@ -48796,6 +51713,43 @@
         "isCoProduction": true,
         "allCountries": [
           "FR",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt13207576",
+        "title": "Screen Generation: Sick Generation?",
+        "year": 2020,
+        "poster": "/6cNHB1oUN88peSZ8hcP0FMKLjPP.jpg",
+        "rating": 6.8,
+        "userRating": 6,
+        "director": "Raphaël Hitier",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "FR"
+        ]
+      },
+      {
+        "imdbId": "tt19781688",
+        "title": "Ice Merchants",
+        "year": 2022,
+        "poster": "/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "João Gonzalez",
+        "genres": [
+          "Animation",
+          "Short",
+          "Drama",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "PT",
           "GB"
         ]
       },
@@ -49318,12 +52272,114 @@
           "HU",
           "GB"
         ]
+      },
+      {
+        "imdbId": "tt0318462",
+        "title": "The Motorcycle Diaries",
+        "year": 2004,
+        "poster": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+        "rating": 7.7,
+        "userRating": 9,
+        "director": "Walter Salles",
+        "genres": [
+          "Adventure",
+          "Biography",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "AR",
+          "FR",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt8267604",
+        "title": "Capernaum",
+        "year": 2018,
+        "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+        "rating": 8.4,
+        "userRating": 7,
+        "director": "Nadine Labaki",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "LB",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt21364460",
+        "title": "Anhell69",
+        "year": 2022,
+        "poster": "/6LKSWdajR6T7Ek8LUd4PsmSaqBg.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Theo Montoya",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CO",
+          "FR",
+          "DE",
+          "RO"
+        ]
+      },
+      {
+        "imdbId": "tt1527793",
+        "title": "No Other Choice",
+        "year": 2025,
+        "poster": "/zqxc2O6eOcPdkcmvem9kgGHvkmM.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "Park Chan-wook",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "KR",
+          "FR"
+        ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
+        ]
       }
     ]
   },
   "DE": {
     "name": "DE",
-    "count": 158,
+    "count": 160,
     "movies": [
       {
         "imdbId": "tt0485947",
@@ -52483,12 +55539,54 @@
           "MA",
           "TH"
         ]
+      },
+      {
+        "imdbId": "tt21364460",
+        "title": "Anhell69",
+        "year": 2022,
+        "poster": "/6LKSWdajR6T7Ek8LUd4PsmSaqBg.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Theo Montoya",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CO",
+          "FR",
+          "DE",
+          "RO"
+        ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
+        ]
       }
     ]
   },
   "GB": {
     "name": "GB",
-    "count": 444,
+    "count": 466,
     "movies": [
       {
         "imdbId": "tt0468569",
@@ -58338,6 +61436,25 @@
         ]
       },
       {
+        "imdbId": "tt0851430",
+        "title": "My Boy Jack",
+        "year": 2007,
+        "poster": "/ugsEKXt0VVlUfns0VUUgggFPbmh.jpg",
+        "rating": 7.1,
+        "userRating": 6,
+        "director": "Brian Kirk",
+        "genres": [
+          "Biography",
+          "Drama",
+          "History",
+          "War"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
+        ]
+      },
+      {
         "imdbId": "tt0097108",
         "title": "The Cook, the Thief, His Wife & Her Lover",
         "year": 1989,
@@ -58652,6 +61769,22 @@
           "JP",
           "GB",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt5340856",
+        "title": "Derren Brown: Pushed to the Edge",
+        "year": 2016,
+        "poster": "/hL31qRjjhVynNnBCkTLGKbbA956.jpg",
+        "rating": 7.5,
+        "userRating": 6,
+        "director": "Jon Richards",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
         ]
       },
       {
@@ -59068,6 +62201,24 @@
         "allCountries": [
           "GB",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt8425058",
+        "title": "Brexit: The Uncivil War",
+        "year": 2019,
+        "poster": "/AcEPeTBU6UoCi8PgSjRxAi8pEy1.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Toby Haynes",
+        "genres": [
+          "Biography",
+          "Drama",
+          "History"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
         ]
       },
       {
@@ -59610,6 +62761,22 @@
         ]
       },
       {
+        "imdbId": "tt14372240",
+        "title": "The Year Earth Changed",
+        "year": 2021,
+        "poster": "/cLwQRXfzPjmpU6I78TCkoHazO0A.jpg",
+        "rating": 8.2,
+        "userRating": 6,
+        "director": "Tom Beard",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
+        ]
+      },
+      {
         "imdbId": "tt11083552",
         "title": "Wrath of Man",
         "year": 2021,
@@ -59786,6 +62953,25 @@
         ]
       },
       {
+        "imdbId": "tt15346636",
+        "title": "Being James Bond",
+        "year": 2021,
+        "poster": "/kKG9gieki5wgEcVXLfnX1lbOcrO.jpg",
+        "rating": 7.4,
+        "userRating": 6,
+        "director": "Baillie Walsh",
+        "genres": [
+          "Documentary",
+          "Action",
+          "Biography",
+          "History"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
+        ]
+      },
+      {
         "imdbId": "tt9098872",
         "title": "The Rescue",
         "year": 2021,
@@ -59864,6 +63050,23 @@
         ]
       },
       {
+        "imdbId": "tt14539726",
+        "title": "Breaking Boundaries: The Science of Our Planet",
+        "year": 2021,
+        "poster": "/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Jonathan Clay",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
         "imdbId": "tt12789558",
         "title": "Belfast",
         "year": 2021,
@@ -59874,6 +63077,24 @@
         "genres": [
           "Biography",
           "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt16116174",
+        "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+        "year": 2022,
+        "poster": "/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+        "rating": 8,
+        "userRating": 7,
+        "director": "Joe Pearlman",
+        "genres": [
+          "Documentary",
+          "Family"
         ],
         "isCoProduction": true,
         "allCountries": [
@@ -59917,6 +63138,23 @@
         "isCoProduction": true,
         "allCountries": [
           "DE",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt11989890",
+        "title": "David Attenborough: A Life on Our Planet",
+        "year": 2020,
+        "poster": "/zSKwyUDKDHiFU5syTTvQRDcGBPS.jpg",
+        "rating": 8.9,
+        "userRating": 7,
+        "director": "Alastair Fothergill",
+        "genres": [
+          "Documentary",
+          "Biography"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
           "GB"
         ]
       },
@@ -60019,6 +63257,59 @@
         "isCoProduction": true,
         "allCountries": [
           "AU",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt11962160",
+        "title": "The Letter Room",
+        "year": 2020,
+        "poster": "/mdN8AnQxiM97GY6FxkZLQHbDPx7.jpg",
+        "rating": 6.8,
+        "userRating": 7,
+        "director": "Elvira Lind",
+        "genres": [
+          "Short",
+          "Comedy",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1553917",
+        "title": "The Illusionist",
+        "year": 2009,
+        "poster": "/hyS8erHnRP3UUHEf7BzdmAdDtGO.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Amy Nicholls",
+        "genres": [
+          "Animation",
+          "Short"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt12833014",
+        "title": "Shark Beach with Chris Hemsworth",
+        "year": 2021,
+        "poster": "/lnx1DMYg4hUU16rH9kOmMQECBeE.jpg",
+        "rating": 6.6,
+        "userRating": 6,
+        "director": "Sally Aitken",
+        "genres": [
+          "Documentary"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
           "GB",
           "US"
         ]
@@ -60146,6 +63437,25 @@
         "allCountries": [
           "GB",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt19373274",
+        "title": "Hold Your Breath: The Ice Dive",
+        "year": 2022,
+        "poster": "/efAxEHMvlgE4qterU0FWwovxkOa.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Ian Derry",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FI",
+          "GB"
         ]
       },
       {
@@ -60387,6 +63697,68 @@
           "Drama",
           "Thriller",
           "War"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt19781688",
+        "title": "Ice Merchants",
+        "year": 2022,
+        "poster": "/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "João Gonzalez",
+        "genres": [
+          "Animation",
+          "Short",
+          "Drama",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "PT",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt17162620",
+        "title": "Haulout",
+        "year": 2022,
+        "poster": "/lETn2gN7tm3PxJEq7UJD9dUThQ7.jpg",
+        "rating": 7.2,
+        "userRating": 7,
+        "director": "Maxim Arbugaev",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "RU",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt22667880",
+        "title": "The Boy, the Mole, the Fox and the Horse",
+        "year": 2022,
+        "poster": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+        "rating": 7.8,
+        "userRating": 7,
+        "director": "Peter Baynton",
+        "genres": [
+          "Animation",
+          "Short",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Family",
+          "Fantasy"
         ],
         "isCoProduction": true,
         "allCountries": [
@@ -61205,6 +64577,142 @@
         "allCountries": [
           "GB",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt3319730",
+        "title": "The Mercy",
+        "year": 2018,
+        "poster": "/51qWwl16Mb0hqorgffCtyENwTPP.jpg",
+        "rating": 6,
+        "userRating": 6,
+        "director": "James Marsh",
+        "genres": [
+          "Adventure",
+          "Biography",
+          "Drama",
+          "Mystery"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt0318462",
+        "title": "The Motorcycle Diaries",
+        "year": 2004,
+        "poster": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+        "rating": 7.7,
+        "userRating": 9,
+        "director": "Walter Salles",
+        "genres": [
+          "Adventure",
+          "Biography",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "AR",
+          "FR",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt8267604",
+        "title": "Capernaum",
+        "year": 2018,
+        "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+        "rating": 8.4,
+        "userRating": 7,
+        "director": "Nadine Labaki",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "LB",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1605717",
+        "title": "Frank",
+        "year": 2014,
+        "poster": "/mGzqs4CHW8LomreoPATnyrTXk7j.jpg",
+        "rating": 6.9,
+        "userRating": 7,
+        "director": "Lenny Abrahamson",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Music"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "IE",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt0365748",
+        "title": "Shaun of the Dead",
+        "year": 2004,
+        "poster": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+        "rating": 7.8,
+        "userRating": 7,
+        "director": "Edgar Wright",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt11539996",
+        "title": "Relay",
+        "year": 2024,
+        "poster": "/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+        "rating": 7,
+        "userRating": 7,
+        "director": "David Mackenzie",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
         ]
       }
     ]
@@ -62165,7 +65673,7 @@
   },
   "JP": {
     "name": "JP",
-    "count": 67,
+    "count": 72,
     "movies": [
       {
         "imdbId": "tt1421051",
@@ -62326,6 +65834,29 @@
         ]
       },
       {
+        "imdbId": "tt1695360",
+        "title": "The Legend of Korra",
+        "year": 2012,
+        "poster": null,
+        "rating": 8.3,
+        "userRating": 7,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR",
+          "JP"
+        ]
+      },
+      {
         "imdbId": "tt0876563",
         "title": "Ponyo",
         "year": 2008,
@@ -62343,6 +65874,28 @@
         "isCoProduction": false,
         "allCountries": [
           "JP"
+        ]
+      },
+      {
+        "imdbId": "tt0280249",
+        "title": "Dragon Ball",
+        "year": 1995,
+        "poster": null,
+        "rating": 8.5,
+        "userRating": 6,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US"
         ]
       },
       {
@@ -62447,6 +66000,26 @@
         "allCountries": [
           "US",
           "JP"
+        ]
+      },
+      {
+        "imdbId": "tt0328832",
+        "title": "The Animatrix",
+        "year": 2003,
+        "poster": "/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+        "rating": 7.3,
+        "userRating": 8,
+        "director": "Peter Chung",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US",
+          "KR"
         ]
       },
       {
@@ -62572,6 +66145,29 @@
         ]
       },
       {
+        "imdbId": "tt1117563",
+        "title": "Batman: Gotham Knight",
+        "year": 2008,
+        "poster": "/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Futoshi Higashide",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US",
+          "KR"
+        ]
+      },
+      {
         "imdbId": "tt0495596",
         "title": "Tales from Earthsea",
         "year": 2006,
@@ -62609,6 +66205,25 @@
           "JP",
           "GB",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt3482378",
+        "title": "Avengers Confidential: Black Widow & Punisher",
+        "year": 2014,
+        "poster": "/wJcyYVRPZDOZOD2w0r2R6wuZqqN.jpg",
+        "rating": 5.7,
+        "userRating": 6,
+        "director": "Kenichi Shimizu",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "JP"
         ]
       },
       {
@@ -63494,7 +67109,7 @@
   },
   "IE": {
     "name": "IE",
-    "count": 29,
+    "count": 30,
     "movies": [
       {
         "imdbId": "tt0349683",
@@ -64089,6 +67704,25 @@
         "allCountries": [
           "IE",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt1605717",
+        "title": "Frank",
+        "year": 2014,
+        "poster": "/mGzqs4CHW8LomreoPATnyrTXk7j.jpg",
+        "rating": 6.9,
+        "userRating": 7,
+        "director": "Lenny Abrahamson",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Music"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "IE",
+          "GB"
         ]
       }
     ]
@@ -65312,7 +68946,7 @@
   },
   "ZA": {
     "name": "ZA",
-    "count": 7,
+    "count": 8,
     "movies": [
       {
         "imdbId": "tt0395169",
@@ -65356,6 +68990,25 @@
           "US",
           "ZA",
           "NZ"
+        ]
+      },
+      {
+        "imdbId": "tt1630626",
+        "title": "Blue Crush 2",
+        "year": 2011,
+        "poster": "/nrxurRiSiqsC65qhu4PO0FAPDb0.jpg",
+        "rating": 5.3,
+        "userRating": 5,
+        "director": "Mike Elliott",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "ZA",
+          "US"
         ]
       },
       {
@@ -65569,7 +69222,7 @@
   },
   "AU": {
     "name": "AU",
-    "count": 51,
+    "count": 54,
     "movies": [
       {
         "imdbId": "tt0455824",
@@ -65890,6 +69543,26 @@
           "Adventure",
           "Comedy",
           "Crime"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "AU",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt0208185",
+        "title": "An Extremely Goofy Movie",
+        "year": 2000,
+        "poster": "/qr5Q3S7HC16XHQBqE4ZsJJvgUDU.jpg",
+        "rating": 6.4,
+        "userRating": 6,
+        "director": "Douglas McCarthy",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Sport"
         ],
         "isCoProduction": true,
         "allCountries": [
@@ -66491,6 +70164,42 @@
         ]
       },
       {
+        "imdbId": "tt3244442",
+        "title": "Stephanie in the Water",
+        "year": 2014,
+        "poster": null,
+        "rating": 6.3,
+        "userRating": 6,
+        "director": "Ava Warbrick",
+        "genres": [
+          "Documentary",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "AU"
+        ]
+      },
+      {
+        "imdbId": "tt20115114",
+        "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+        "year": 2022,
+        "poster": "/a0xrTLwvosW81fuFhdWYdu35GJ0.jpg",
+        "rating": 7.2,
+        "userRating": 6,
+        "director": "Lachlan Pendragon",
+        "genres": [
+          "Animation",
+          "Short",
+          "Comedy",
+          "Fantasy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "AU"
+        ]
+      },
+      {
         "imdbId": "tt1553659",
         "title": "Breath",
         "year": 2017,
@@ -66593,7 +70302,7 @@
   },
   "HK": {
     "name": "HK",
-    "count": 40,
+    "count": 42,
     "movies": [
       {
         "imdbId": "tt0407887",
@@ -67407,12 +71116,51 @@
           "TW",
           "US"
         ]
+      },
+      {
+        "imdbId": "tt11512676",
+        "title": "Do Not Split",
+        "year": 2020,
+        "poster": "/rPZoRW1mtUa5csfJhKzF1pKjy0R.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Anders Hammer",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "HK",
+          "NO",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt1860357",
+        "title": "Deepwater Horizon",
+        "year": 2016,
+        "poster": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Peter Berg",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "HK"
+        ]
       }
     ]
   },
   "ES": {
     "name": "Spain",
-    "count": 66,
+    "count": 67,
     "movies": [
       {
         "imdbId": "tt0254455",
@@ -67758,6 +71506,22 @@
         "genres": [
           "Drama",
           "War"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "ES"
+        ]
+      },
+      {
+        "imdbId": "tt0454121",
+        "title": "Diario de un skin",
+        "year": 2005,
+        "poster": "/kMy0oIah5xa6IvnmLUpTh874OGc.jpg",
+        "rating": 6.1,
+        "userRating": 7,
+        "director": "Jacobo Rispa",
+        "genres": [
+          "Drama"
         ],
         "isCoProduction": false,
         "allCountries": [
@@ -68743,7 +72507,7 @@
   },
   "MX": {
     "name": "MX",
-    "count": 16,
+    "count": 19,
     "movies": [
       {
         "imdbId": "tt0457430",
@@ -68915,6 +72679,41 @@
         ]
       },
       {
+        "imdbId": "tt9098586",
+        "title": "A 3 Minute Hug",
+        "year": 2019,
+        "poster": "/n9V1ijGKFwcho4M2PfFlIWvHgxp.jpg",
+        "rating": 6.6,
+        "userRating": 6,
+        "director": "Everardo González",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "MX"
+        ]
+      },
+      {
+        "imdbId": "tt11162992",
+        "title": "Lorena: Light-Footed Woman",
+        "year": 2019,
+        "poster": "/nDEXcwY18WyBnYrSDAmHgjTEqSX.jpg",
+        "rating": 7,
+        "userRating": 6,
+        "director": "Juan Carlos Rulfo",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "MX"
+        ]
+      },
+      {
         "imdbId": "tt5932728",
         "title": "The Professor and the Madman",
         "year": 2019,
@@ -69053,6 +72852,24 @@
           "DK",
           "FR",
           "CH"
+        ]
+      },
+      {
+        "imdbId": "tt4323594",
+        "title": "I'm No Longer Here",
+        "year": 2019,
+        "poster": "/AtfK71xkVaaHTZwU5mgfDgBqg9Y.jpg",
+        "rating": 7.3,
+        "userRating": 7,
+        "director": "Luis Fernando Frías de la Parra",
+        "genres": [
+          "Drama",
+          "Music"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "MX",
+          "US"
         ]
       }
     ]
@@ -69790,9 +73607,31 @@
     ]
   },
   "KR": {
-    "name": "KR",
-    "count": 12,
+    "name": "South Korea",
+    "count": 19,
     "movies": [
+      {
+        "imdbId": "tt0417299",
+        "title": "Avatar: The Last Airbender",
+        "year": 2005,
+        "poster": null,
+        "rating": 9.3,
+        "userRating": 10,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Mystery"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR"
+        ]
+      },
       {
         "imdbId": "tt0426931",
         "title": "August Rush",
@@ -69809,6 +73648,118 @@
         "allCountries": [
           "US",
           "GB",
+          "KR"
+        ]
+      },
+      {
+        "imdbId": "tt1695360",
+        "title": "The Legend of Korra",
+        "year": 2012,
+        "poster": null,
+        "rating": 8.3,
+        "userRating": 7,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR",
+          "JP"
+        ]
+      },
+      {
+        "imdbId": "tt0361243",
+        "title": "Star Wars: Clone Wars",
+        "year": 2003,
+        "poster": null,
+        "rating": 7.9,
+        "userRating": null,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Drama",
+          "Family",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR"
+        ]
+      },
+      {
+        "imdbId": "tt0275137",
+        "title": "Justice League",
+        "year": 2001,
+        "poster": null,
+        "rating": 8.5,
+        "userRating": 7,
+        "director": null,
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "KR"
+        ]
+      },
+      {
+        "imdbId": "tt0328832",
+        "title": "The Animatrix",
+        "year": 2003,
+        "poster": "/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+        "rating": 7.3,
+        "userRating": 8,
+        "director": "Peter Chung",
+        "genres": [
+          "Animation",
+          "Action",
+          "Sci-Fi"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US",
+          "KR"
+        ]
+      },
+      {
+        "imdbId": "tt1117563",
+        "title": "Batman: Gotham Knight",
+        "year": 2008,
+        "poster": "/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Futoshi Higashide",
+        "genres": [
+          "Animation",
+          "Action",
+          "Crime",
+          "Drama",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "JP",
+          "US",
           "KR"
         ]
       },
@@ -70027,6 +73978,26 @@
           "TH",
           "AE",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt1527793",
+        "title": "No Other Choice",
+        "year": 2025,
+        "poster": "/zqxc2O6eOcPdkcmvem9kgGHvkmM.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "Park Chan-wook",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "KR",
+          "FR"
         ]
       }
     ]
@@ -70354,7 +74325,7 @@
   },
   "CO": {
     "name": "CO",
-    "count": 19,
+    "count": 21,
     "movies": [
       {
         "imdbId": "tt0390221",
@@ -70445,6 +74416,23 @@
         "allCountries": [
           "CO",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt0225033",
+        "title": "The Vampires of Poverty",
+        "year": 1978,
+        "poster": "/vgZtCNWbIaxvIl5fYrLmJ4nH3h4.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "Luis Ospina",
+        "genres": [
+          "Short",
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "CO"
         ]
       },
       {
@@ -70701,7 +74689,7 @@
         "year": 2010,
         "poster": "/8vM2QgWSdl7Lrqw2x0cesQsorLa.jpg",
         "rating": 7.1,
-        "userRating": null,
+        "userRating": 7,
         "director": "Carlos César Arbeláez",
         "genres": [
           "Drama"
@@ -70710,6 +74698,26 @@
         "allCountries": [
           "CO",
           "PA"
+        ]
+      },
+      {
+        "imdbId": "tt21364460",
+        "title": "Anhell69",
+        "year": 2022,
+        "poster": "/6LKSWdajR6T7Ek8LUd4PsmSaqBg.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Theo Montoya",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CO",
+          "FR",
+          "DE",
+          "RO"
         ]
       }
     ]
@@ -70807,7 +74815,7 @@
   },
   "SE": {
     "name": "Sweden",
-    "count": 22,
+    "count": 24,
     "movies": [
       {
         "imdbId": "tt0368314",
@@ -71246,6 +75254,47 @@
         "isCoProduction": false,
         "allCountries": [
           "SE"
+        ]
+      },
+      {
+        "imdbId": "tt22165078",
+        "title": "Born to Fly",
+        "year": 2022,
+        "poster": "/xmTvJJzjnmahVvdBCbrZOsYupqO.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Brennan Robideaux",
+        "genres": [
+          "Documentary",
+          "Biography",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "SE",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
         ]
       }
     ]
@@ -72340,7 +76389,7 @@
   },
   "TR": {
     "name": "TR",
-    "count": 6,
+    "count": 7,
     "movies": [
       {
         "imdbId": "tt0465494",
@@ -72463,6 +76512,28 @@
           "GB",
           "US"
         ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
+        ]
       }
     ]
   },
@@ -72573,7 +76644,7 @@
   },
   "RU": {
     "name": "RU",
-    "count": 6,
+    "count": 7,
     "movies": [
       {
         "imdbId": "tt0120053",
@@ -72689,6 +76760,24 @@
         "allCountries": [
           "RU"
         ]
+      },
+      {
+        "imdbId": "tt17162620",
+        "title": "Haulout",
+        "year": 2022,
+        "poster": "/lETn2gN7tm3PxJEq7UJD9dUThQ7.jpg",
+        "rating": 7.2,
+        "userRating": 7,
+        "director": "Maxim Arbugaev",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "RU",
+          "GB"
+        ]
       }
     ]
   },
@@ -72722,7 +76811,7 @@
   },
   "DK": {
     "name": "DK",
-    "count": 21,
+    "count": 23,
     "movies": [
       {
         "imdbId": "tt0371552",
@@ -73108,6 +77197,24 @@
         ]
       },
       {
+        "imdbId": "tt22054902",
+        "title": "Ivalu",
+        "year": 2023,
+        "poster": "/8xCrLSfayOEEK2uMyDN191pqURg.jpg",
+        "rating": 6.3,
+        "userRating": 7,
+        "director": "Anders Walter",
+        "genres": [
+          "Short",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "DK",
+          "GL"
+        ]
+      },
+      {
         "imdbId": "tt7322224",
         "title": "Triangle of Sadness",
         "year": 2022,
@@ -73185,12 +77292,34 @@
           "FR",
           "CH"
         ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
+        ]
       }
     ]
   },
   "RO": {
     "name": "RO",
-    "count": 3,
+    "count": 4,
     "movies": [
       {
         "imdbId": "tt0397044",
@@ -73255,6 +77384,26 @@
           "GB",
           "RO",
           "IT"
+        ]
+      },
+      {
+        "imdbId": "tt21364460",
+        "title": "Anhell69",
+        "year": 2022,
+        "poster": "/6LKSWdajR6T7Ek8LUd4PsmSaqBg.jpg",
+        "rating": 7.1,
+        "userRating": 7,
+        "director": "Theo Montoya",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "CO",
+          "FR",
+          "DE",
+          "RO"
         ]
       }
     ]
@@ -73497,7 +77646,7 @@
   },
   "AR": {
     "name": "AR",
-    "count": 17,
+    "count": 18,
     "movies": [
       {
         "imdbId": "tt1523980",
@@ -73830,6 +77979,27 @@
         "allCountries": [
           "AR",
           "ES"
+        ]
+      },
+      {
+        "imdbId": "tt0318462",
+        "title": "The Motorcycle Diaries",
+        "year": 2004,
+        "poster": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+        "rating": 7.7,
+        "userRating": 9,
+        "director": "Walter Salles",
+        "genres": [
+          "Adventure",
+          "Biography",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "AR",
+          "FR",
+          "GB",
+          "US"
         ]
       }
     ]
@@ -74752,7 +78922,7 @@
   },
   "EE": {
     "name": "Estonia",
-    "count": 6,
+    "count": 7,
     "movies": [
       {
         "imdbId": "tt5593384",
@@ -74833,6 +79003,24 @@
           "EE",
           "FR",
           "IS"
+        ]
+      },
+      {
+        "imdbId": "tt0884812",
+        "title": "Alien or: The Escape of Valdis in 11 Chapters",
+        "year": 2006,
+        "poster": "/iEShcDlyACkLsSQvFQPbptN47F0.jpg",
+        "rating": 8.1,
+        "userRating": 7,
+        "director": "Rasmus Merivoo",
+        "genres": [
+          "Short",
+          "Action",
+          "Comedy"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "EE"
         ]
       },
       {
@@ -74942,7 +79130,7 @@
   },
   "PT": {
     "name": "PT",
-    "count": 1,
+    "count": 2,
     "movies": [
       {
         "imdbId": "tt2197936",
@@ -74960,6 +79148,27 @@
         "allCountries": [
           "US",
           "PT"
+        ]
+      },
+      {
+        "imdbId": "tt19781688",
+        "title": "Ice Merchants",
+        "year": 2022,
+        "poster": "/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+        "rating": 7.6,
+        "userRating": 7,
+        "director": "João Gonzalez",
+        "genres": [
+          "Animation",
+          "Short",
+          "Drama",
+          "Fantasy"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "PT",
+          "GB"
         ]
       }
     ]
@@ -75093,7 +79302,7 @@
   },
   "NO": {
     "name": "Norway",
-    "count": 3,
+    "count": 5,
     "movies": [
       {
         "imdbId": "tt12877032",
@@ -75163,6 +79372,47 @@
           "ES",
           "BE",
           "IT"
+        ]
+      },
+      {
+        "imdbId": "tt11512676",
+        "title": "Do Not Split",
+        "year": 2020,
+        "poster": "/rPZoRW1mtUa5csfJhKzF1pKjy0R.jpg",
+        "rating": 7.5,
+        "userRating": 7,
+        "director": "Anders Hammer",
+        "genres": [
+          "Documentary",
+          "Short"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "HK",
+          "NO",
+          "US"
+        ]
+      },
+      {
+        "imdbId": "tt27714581",
+        "title": "Sentimental Value",
+        "year": 2025,
+        "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+        "rating": 7.8,
+        "userRating": 8,
+        "director": "Joachim Trier",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "TR",
+          "NO",
+          "FR",
+          "DK",
+          "SE",
+          "DE",
+          "GB"
         ]
       }
     ]
@@ -75284,7 +79534,7 @@
   },
   "FI": {
     "name": "FI",
-    "count": 7,
+    "count": 9,
     "movies": [
       {
         "imdbId": "tt8430054",
@@ -75315,6 +79565,25 @@
           "ES",
           "BE",
           "IT"
+        ]
+      },
+      {
+        "imdbId": "tt19373274",
+        "title": "Hold Your Breath: The Ice Dive",
+        "year": 2022,
+        "poster": "/efAxEHMvlgE4qterU0FWwovxkOa.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Ian Derry",
+        "genres": [
+          "Documentary",
+          "Short",
+          "Sport"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FI",
+          "GB"
         ]
       },
       {
@@ -75430,6 +79699,25 @@
           "GB",
           "US"
         ]
+      },
+      {
+        "imdbId": "tt30253473",
+        "title": "Materialists",
+        "year": 2025,
+        "poster": "/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg",
+        "rating": 6.3,
+        "userRating": 7,
+        "director": "Celine Song",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "FI"
+        ]
       }
     ]
   },
@@ -75470,9 +79758,33 @@
       }
     ]
   },
+  "GL": {
+    "name": "Greenland",
+    "count": 1,
+    "movies": [
+      {
+        "imdbId": "tt22054902",
+        "title": "Ivalu",
+        "year": 2023,
+        "poster": "/8xCrLSfayOEEK2uMyDN191pqURg.jpg",
+        "rating": 6.3,
+        "userRating": 7,
+        "director": "Anders Walter",
+        "genres": [
+          "Short",
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "DK",
+          "GL"
+        ]
+      }
+    ]
+  },
   "PK": {
     "name": "PK",
-    "count": 1,
+    "count": 2,
     "movies": [
       {
         "imdbId": "tt19719976",
@@ -75491,6 +79803,24 @@
         "allCountries": [
           "PK",
           "US"
+        ]
+      },
+      {
+        "imdbId": "tt9758482",
+        "title": "Zabardast",
+        "year": 2018,
+        "poster": null,
+        "rating": 8,
+        "userRating": 7,
+        "director": "Jerome Tanon",
+        "genres": [
+          "Documentary",
+          "Adventure",
+          "Sport"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "PK"
         ]
       }
     ]
@@ -75557,7 +79887,7 @@
   },
   "LV": {
     "name": "LV",
-    "count": 1,
+    "count": 2,
     "movies": [
       {
         "imdbId": "tt4772188",
@@ -75578,6 +79908,27 @@
           "LV",
           "BE",
           "FR"
+        ]
+      },
+      {
+        "imdbId": "tt33738802",
+        "title": "Dog of God",
+        "year": 2025,
+        "poster": "/pBL4KrMAFk8iKo5T2yXvLMEe3ag.jpg",
+        "rating": 6.6,
+        "userRating": 7,
+        "director": "Lauris Ābele",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Horror",
+          "Mystery"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "LV",
+          "US"
         ]
       }
     ]
@@ -75795,7 +80146,7 @@
         "year": 2010,
         "poster": "/8vM2QgWSdl7Lrqw2x0cesQsorLa.jpg",
         "rating": 7.1,
-        "userRating": null,
+        "userRating": 7,
         "director": "Carlos César Arbeláez",
         "genres": [
           "Drama"
@@ -75804,6 +80155,78 @@
         "allCountries": [
           "CO",
           "PA"
+        ]
+      }
+    ]
+  },
+  "LB": {
+    "name": "Lebanon",
+    "count": 1,
+    "movies": [
+      {
+        "imdbId": "tt8267604",
+        "title": "Capernaum",
+        "year": 2018,
+        "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+        "rating": 8.4,
+        "userRating": 7,
+        "director": "Nadine Labaki",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "FR",
+          "LB",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  "MN": {
+    "name": "Mongolia",
+    "count": 1,
+    "movies": [
+      {
+        "imdbId": "tt39000002",
+        "title": "The Muralist",
+        "year": 2025,
+        "poster": "/uWA2x3MOpEAYP9GvxoH0PzN5CB8.jpg",
+        "rating": 0,
+        "userRating": 9,
+        "director": "Sengedorj Janchivdorj",
+        "genres": [
+          "Drama"
+        ],
+        "isCoProduction": false,
+        "allCountries": [
+          "MN"
+        ]
+      }
+    ]
+  },
+  "AN": {
+    "name": "Netherlands Antilles",
+    "count": 1,
+    "movies": [
+      {
+        "imdbId": "tt0104797",
+        "title": "Malcolm X",
+        "year": 1992,
+        "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+        "rating": 7.7,
+        "userRating": 7,
+        "director": "Spike Lee",
+        "genres": [
+          "Biography",
+          "Drama",
+          "History"
+        ],
+        "isCoProduction": true,
+        "allCountries": [
+          "US",
+          "AN"
         ]
       }
     ]

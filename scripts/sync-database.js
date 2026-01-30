@@ -8,6 +8,8 @@ const csv = require('csv-parser')
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const rootDir = path.join(__dirname, '..')
+const missingPath = path.join(rootDir, 'data', 'input', 'missing.json')
+const countriesCsvPath = path.join(rootDir, 'data', 'input', 'countries.csv')
 
 // TMDB API configuration
 const TMDB_API_KEY = process.env.TMDB_API_KEY
@@ -15,6 +17,112 @@ const TMDB_BASE_URL = 'https://api.themoviedb.org/3'
 const REQUEST_DELAY = 250
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms))
+
+// Missing.json handling
+function loadMissing() {
+  if (fs.existsSync(missingPath)) {
+    return JSON.parse(fs.readFileSync(missingPath, 'utf8'))
+  }
+  return {}
+}
+
+function saveMissing(missing) {
+  fs.writeFileSync(missingPath, JSON.stringify(missing, null, 2))
+}
+
+function isManualEntryComplete(entry) {
+  // Only require countries array - names will be inferred from countries.csv
+  return entry.countries &&
+         Array.isArray(entry.countries) &&
+         entry.countries.length > 0
+}
+
+function createMissingEntry(csvData, reason) {
+  return {
+    imdbId: csvData.imdbId,
+    title: csvData.title,
+    year: csvData.year,
+    director: csvData.directors || '',
+    genres: csvData.genres || [],
+    imdbRating: csvData.imdbRating,
+    userRating: csvData.userRating,
+    reason: reason,
+    countries: [],
+    addedAt: new Date().toISOString()
+  }
+}
+
+function createMovieFromManualEntry(entry, csvData, countryLookup) {
+  // Build countryNames from country codes using the lookup
+  const countryNames = {}
+  for (const code of entry.countries) {
+    countryNames[code] = countryLookup.get(code) || code
+  }
+
+  return {
+    imdbId: entry.imdbId,
+    title: entry.title,
+    year: entry.year,
+    poster: entry.poster || null,
+    rating: csvData.imdbRating || entry.imdbRating,
+    userRating: csvData.userRating || entry.userRating,
+    director: entry.director || csvData.directors?.split(',')[0]?.trim() || null,
+    genres: csvData.genres?.length > 0 ? csvData.genres : (entry.genres || []),
+    countries: entry.countries,
+    countryNames: countryNames,
+    tmdbId: entry.tmdbId || null,
+    fetchedAt: new Date().toISOString(),
+    source: 'manual'
+  }
+}
+
+function loadExistingCountriesCsv() {
+  const countries = new Map()
+  if (fs.existsSync(countriesCsvPath)) {
+    const content = fs.readFileSync(countriesCsvPath, 'utf8')
+    const lines = content.trim().split('\n').slice(1) // Skip header
+    for (const line of lines) {
+      const match = line.match(/^([A-Z]{2}),(.+)$/)
+      if (match) {
+        countries.set(match[1], match[2].replace(/^"|"$/g, ''))
+      }
+    }
+  }
+  return countries
+}
+
+function updateCountriesCsv(database) {
+  // Load existing CSV to preserve manually corrected names
+  const countries = loadExistingCountriesCsv()
+
+  // Add/update countries from database (only if better name available)
+  for (const movie of Object.values(database.movies)) {
+    if (movie.countryNames) {
+      for (const [code, name] of Object.entries(movie.countryNames)) {
+        const existing = countries.get(code)
+        // Add if new, or update if current is just the code and we have a real name
+        if (!existing) {
+          countries.set(code, name)
+        } else if (existing === code && name !== code) {
+          countries.set(code, name)
+        }
+      }
+    }
+  }
+
+  // Sort by code and write CSV
+  const sortedCodes = [...countries.keys()].sort()
+  const csvLines = ['code,name']
+  for (const code of sortedCodes) {
+    const name = countries.get(code)
+    // Escape names with commas
+    const safeName = name.includes(',') ? `"${name}"` : name
+    csvLines.push(`${code},${safeName}`)
+  }
+
+  fs.writeFileSync(countriesCsvPath, csvLines.join('\n') + '\n')
+  return countries.size
+}
 
 async function fetchWithRetry(url, retries = 3) {
   for (let i = 0; i < retries; i++) {
@@ -53,12 +161,13 @@ async function getMovieCredits(tmdbId) {
 }
 
 function parseCSV(filePath) {
+  const EXCLUDED_TYPES = ['Music Video', 'TV Episode']
   return new Promise((resolve, reject) => {
     const results = []
     fs.createReadStream(filePath)
       .pipe(csv())
       .on('data', (data) => {
-        if (data['Title Type'] === 'Movie' && data['Const']) {
+        if (data['Const'] && !EXCLUDED_TYPES.includes(data['Title Type'])) {
           results.push({
             imdbId: data['Const'],
             title: data['Title'],
@@ -125,9 +234,10 @@ async function fetchMovieFromTMDB(csvData) {
 async function main() {
   console.log('Sync Database: Incremental update from CSV files\n')
 
-  // 1. Discover all CSV files in data/input/
+  // 1. Discover all CSV files in data/input/ (excluding reference files)
   const inputDir = path.join(rootDir, 'data', 'input')
-  const csvFiles = fs.readdirSync(inputDir).filter(f => f.endsWith('.csv'))
+  const excludedCsvFiles = ['countries.csv']
+  const csvFiles = fs.readdirSync(inputDir).filter(f => f.endsWith('.csv') && !excludedCsvFiles.includes(f))
 
   if (csvFiles.length === 0) {
     console.error('No CSV files found in data/input/')
@@ -175,44 +285,93 @@ async function main() {
 
   console.log(`\nMovies to fetch from TMDB: ${newIds.length}`)
 
-  // 5. Fetch only new movies from TMDB
-  if (newIds.length > 0) {
-    if (!TMDB_API_KEY) {
-      console.error('\nError: TMDB_API_KEY environment variable is not set')
-      console.error('Get an API key from https://www.themoviedb.org/settings/api')
-      console.error('Then run: TMDB_API_KEY=your_key npm run data:sync')
-      process.exit(1)
-    }
+  // 5. Load missing.json for manual entries and country lookup
+  const missing = loadMissing()
+  const countryLookup = loadExistingCountriesCsv()
+  const initialMissingCount = Object.keys(missing).length
+  let newMissingEntries = []
+  let usedManualEntries = []
 
-    console.log('\nFetching new movies from TMDB...')
+  // 6. Fetch only new movies from TMDB (or use manual entries)
+  if (newIds.length > 0) {
+    console.log('\nProcessing new movies...')
     let fetched = 0
+    let fromManual = 0
     let failed = 0
 
     for (const imdbId of newIds) {
       const csvData = allMoviesFromCSV.get(imdbId)
-      try {
-        const movieData = await fetchMovieFromTMDB(csvData)
 
-        if (movieData) {
-          database.movies[imdbId] = movieData
-          fetched++
-          if (fetched % 50 === 0) {
-            console.log(`  Fetched ${fetched}/${newIds.length}...`)
-          }
-        } else {
-          console.log(`  [SKIP] ${csvData.title} - Not found in TMDB or no production countries`)
-          failed++
-        }
-      } catch (error) {
-        console.log(`  [ERROR] ${csvData.title}: ${error.message}`)
-        failed++
+      // First check if there's a complete manual entry in missing.json
+      if (missing[imdbId] && isManualEntryComplete(missing[imdbId])) {
+        const movieData = createMovieFromManualEntry(missing[imdbId], csvData, countryLookup)
+        database.movies[imdbId] = movieData
+        usedManualEntries.push({ id: imdbId, title: csvData.title })
+        delete missing[imdbId]
+        fromManual++
+        console.log(`  [MANUAL] ${csvData.title} - Used manual entry`)
+        continue
       }
+
+      // Try TMDB if we have an API key
+      if (TMDB_API_KEY) {
+        try {
+          const movieData = await fetchMovieFromTMDB(csvData)
+
+          if (movieData) {
+            database.movies[imdbId] = movieData
+            // Remove from missing if it was there (partial entry)
+            if (missing[imdbId]) {
+              delete missing[imdbId]
+            }
+            fetched++
+            if (fetched % 50 === 0) {
+              console.log(`  Fetched ${fetched}/${newIds.length}...`)
+            }
+            continue
+          }
+        } catch (error) {
+          console.log(`  [ERROR] ${csvData.title}: ${error.message}`)
+        }
+      }
+
+      // If we get here, TMDB failed - add to missing.json if not already there
+      if (!missing[imdbId]) {
+        const reason = !TMDB_API_KEY ? 'No TMDB API key' : 'Not found in TMDB or no production countries'
+        missing[imdbId] = createMissingEntry(csvData, reason)
+        newMissingEntries.push({ id: imdbId, title: csvData.title })
+        console.log(`  [MISSING] ${csvData.title} - Added to missing.json`)
+      }
+      failed++
     }
 
-    console.log(`\nFetch complete: ${fetched} added, ${failed} failed`)
+    console.log(`\nFetch complete: ${fetched} from TMDB, ${fromManual} from manual entries, ${failed} failed`)
   }
 
-  // 6. Update userRating for existing movies (might have changed in CSV)
+  // 7. Save updated missing.json
+  saveMissing(missing)
+  const finalMissingCount = Object.keys(missing).length
+
+  // Alert about missing entries
+  if (newMissingEntries.length > 0) {
+    console.log(`\n⚠️  NEW MISSING ENTRIES: ${newMissingEntries.length} movies need manual data`)
+    console.log('   Edit data/input/missing.json to add country info, then run data:update again')
+    console.log('   New entries:')
+    for (const entry of newMissingEntries) {
+      console.log(`     - ${entry.title} (${entry.id})`)
+    }
+  }
+
+  if (usedManualEntries.length > 0) {
+    console.log(`\n✓  Used ${usedManualEntries.length} manual entries from missing.json`)
+  }
+
+  if (finalMissingCount > 0) {
+    console.log(`\n📋 Missing entries remaining: ${finalMissingCount}`)
+    console.log('   Run data:update again after filling in the country data')
+  }
+
+  // 8. Update userRating for existing movies (might have changed in CSV)
   console.log('\nUpdating user ratings from CSV...')
   let ratingsUpdated = 0
 
@@ -226,13 +385,17 @@ async function main() {
   }
   console.log(`  Updated ${ratingsUpdated} user ratings`)
 
-  // 7. Save updated database
+  // 9. Save updated database
   database.lastUpdated = new Date().toISOString()
   fs.writeFileSync(dbPath, JSON.stringify(database, null, 2))
   console.log(`\nSaved database to data/db/movies.json`)
   console.log(`  Total movies in database: ${Object.keys(database.movies).length}`)
 
-  // 8. Generate list reference files
+  // 10. Update countries reference CSV
+  const countryCount = updateCountriesCsv(database)
+  console.log(`\nUpdated countries.csv with ${countryCount} countries`)
+
+  // 11. Generate list reference files
   console.log('\nUpdating list reference files...')
   const listsDir = path.join(rootDir, 'data', 'lists')
 

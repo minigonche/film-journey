@@ -1,0 +1,41 @@
+.view-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 100;
+  display: inline-flex;
+  gap: 0.25rem;
+  padding: 0.25rem;
+  background: rgba(242, 239, 232, 0.95);
+  border-radius: 999px;
+  box-shadow: 0 2px 12px rgba(42, 56, 48, 0.15);
+  backdrop-filter: blur(8px);
+}
+
+.view-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  padding: 0.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.view-btn.active {
+  background: var(--accent);
+  color: #f2efe8;
+  box-shadow: 0 4px 8px rgba(139, 77, 66, 0.25);
+}
+
+.view-btn:not(.active):hover {
+  color: var(--text-primary);
+  background: rgba(42, 56, 48, 0.08);
+}
+
+.view-btn svg {
+  display: block;
+}

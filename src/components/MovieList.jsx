@@ -3,7 +3,7 @@ import MovieCard from './MovieCard'
 import useInfiniteScroll from '../hooks/useInfiniteScroll'
 import './MovieList.css'
 
-function MovieList({ selectedCountry, onClearSelection, dataMode, onDataModeChange, datasetCounts, highlightedMovieId, onMovieClick }) {
+function MovieList({ selectedCountry, onClearSelection, dataMode, onDataModeChange, datasetCounts, highlightedMovieId, onMovieClick, viewMode }) {
   // Sort movies by user rating (descending)
   const sortedMovies = useMemo(() => {
     if (!selectedCountry?.movies) return []
@@ -37,9 +37,10 @@ function MovieList({ selectedCountry, onClearSelection, dataMode, onDataModeChan
       {!selectedCountry ? (
         <div className="empty-state">
           <div className="empty-content">
-            <div className="globe-icon">🌍</div>
-            <h2>Select a Country</h2>
-            <p>Click on a country in the map to see the movies you've watched from there.</p>
+            <h2>{viewMode === 'timeline' ? 'Select a Year' : 'Select a Country'}</h2>
+            <p>{viewMode === 'timeline'
+              ? 'Click on a bar in the chart to see movies from that year.'
+              : 'Click on a country in the map to see the movies you\'ve watched from there.'}</p>
           </div>
         </div>
       ) : (
